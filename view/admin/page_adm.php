@@ -1,4 +1,9 @@
 <?php
+/***************************************
+Written by: Immanuel Flepu (Siya)
+Github: https://github.com/SiyaFl
+***************************************/
+
 	session_start();
 ?>
 
@@ -12,7 +17,7 @@
 	</head>
 	<body>
 		<header>
-			<nav><button onclick = 'window.location.href = "../../control/Logout.php" ';>Sair</button></nav>
+			<nav><button onclick = 'window.location.href = "../../control/Logout.php" ';>Logout</button></nav>
 		</header>
 
 		<main style="text-align: center;">
@@ -29,7 +34,7 @@
 				    <option value="4">Apagar Veiculo</option>
 				</select>
 
-				<button id="btnAdm" type="submit">Enviar</button>
+				<button id="btnAdm" type="submit">Submit</button>
 			</form>
 		</main>
 	</body>

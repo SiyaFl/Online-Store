@@ -1,4 +1,9 @@
 <?php
+/***************************************
+Written by: Immanuel Flepu (Siya)
+Github: https://github.com/SiyaFl
+***************************************/
+
 	session_start();
 
 	if(!isset($_SESSION['login'] ) ){

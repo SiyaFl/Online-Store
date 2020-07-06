@@ -1,4 +1,9 @@
-<?php  
+<?php 
+/***************************************
+Written by: Immanuel Flepu (Siya)
+Github: https://github.com/SiyaFl
+***************************************/
+ 
 	require_once '../../control/Editar.php';
 	$id = $_GET['id'];
 	$update = new Editar($id);

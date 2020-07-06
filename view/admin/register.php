@@ -1,9 +1,13 @@
 <!DOCTYPE html>
+<!--/***************************************
+Written by: Immanuel Flepu (Siya)
+Github: https://github.com/SiyaFl
+***************************************/-->
 
 <html lang = "pt-br">
 	<head>
 		<meta charset = "utf-8"/>
-		<title>Cadastro</title>
+		<title>Online Store</title>
 		<link rel="stylesheet" type="text/css" href="../../config/css/Register_style.css">
 	</head>
 	<body>
